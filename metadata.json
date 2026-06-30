@@ -1,0 +1,11 @@
+{
+  "name": "SAHAAY AI",
+  "description": "A unified platform for citizens to easily report civic issues using AI, and for government officials to track and resolve them seamlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
